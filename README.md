@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on improving my coding and analytical skills
 - 🌱 I’m currently learning .NET Framework, Python and more Javascript
 - 👯 I’m open to learning from the wonderful open source community and contribute in anything I find interesting
-- 📫 How to reach me: [saadyakubu2@yahoo.com] (mailto:saadyakubu2@yahoo.com)
+- 📫 How to reach me: [saadyakubu2@yahoo.com]
 - ⚡ Fun fact: We learn and grow everyday if our eyes, ears and minds are wide open
 
 
