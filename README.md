@@ -1,7 +1,7 @@
-### Skills: C#, PHP, Javascript (Node & React) 👋
+### Skills: C#, PHP, Javascript 👋
 
 - 🔭 I’m currently working on improving my coding and data analytical skills
-- 🌱 I’m currently learning .NET Framework, Python and Javascript
+- 🌱 I’m currently learning Python and Javascript
 - 👯 I’m open to learning from the wonderful open source community and contribute in anything I find interesting
 - 📫 How to reach me: [![Mail Badge](https://img.shields.io/badge/-saadyakubu2@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saadyakubu2@yahoo.com)](mailto:saadyakubu2@yahoo.com)
 - ⚡ Fun fact: We learn and grow everyday if our eyes, ears and minds are wide open
