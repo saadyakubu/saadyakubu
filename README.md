@@ -1,4 +1,4 @@
-### Skills: C#, PHP, Javascript 👋
+### Skills: PHP, Python, Javascript 👋
 
 - 🔭 I’m currently working on improving my coding and data analytical skills
 - 🌱 I’m currently learning Python and Javascript
